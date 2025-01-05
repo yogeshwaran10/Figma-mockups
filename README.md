@@ -8,9 +8,6 @@ Welcome to the **Figma Mockups** repository! 🚀 This is a collection of my ear
 
 Here’s a quick glance at the mockups included in this repository:
 
-- **🛍️ Agaram UI**  
-  A clean, minimal e-commerce design concept for showcasing products elegantly.  
-
 - **🎵 Musico**  
   A vibrant music application UI mockup designed for a seamless listening experience.  
 
